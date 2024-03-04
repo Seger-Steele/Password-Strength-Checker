@@ -5,15 +5,15 @@ import re
 
 def interpret_score(score): #Interprets the password strength score.
     if score == 0:
-        return "within a few minutes"
+        return "Within a few minutes."
     elif score == 1:
-        return "within a hour"
+        return "Within a hour."
     elif score == 2:
-        return "within a few hours"
+        return "Within a few hours."
     elif score == 3:
-        return "within days"
+        return "Within days."
     else:
-        return "within centuries (very strong password)"
+        return "Within centuries(very strong password)."
     
 common_passwords = set()
 
