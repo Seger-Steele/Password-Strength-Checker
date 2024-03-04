@@ -22,7 +22,7 @@ def load_common_passwords(): #Loads SecLists 10k-most-common.txt from the workin
     with open('10k-most-common.txt', 'r') as f:
         common_passwords = set(f.read().splitlines())
 
-def validate_password(password): #Validates the password and returns a boolean and message.
+def validate_password(password): #Validates the password and handles the error if not. 
     if not password:
         return False, "Please enter a password before pressing Enter."
     return True, ""
