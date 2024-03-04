@@ -24,15 +24,15 @@ Lorem Ipsum
 ### CLI:
 
 - Run PSC.py from your terminal (zsh example): python3 PSC.py
-- When asked whether you want GUI or CLI, press "Enter"
-- Enter a password to check its strength. 
+- When asked whether you want GUI or CLI, press "Enter".
+- Enter a password and press "Enter" to check its strength. 
 
 Example(zsh): 
 ![alt text](image-2.png)
 
 ### GUI:
 
-- Run the script and press "1", then "Enter" at the prompt to launch the GUI.
+- Run PSC.py from your terminal and press "1", then "Enter" at the prompt to launch the GUI.
 - Enter a password in the entry field and click "Check Strength."
 - The results will be displayed in the text box below.
 
