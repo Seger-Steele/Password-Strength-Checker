@@ -56,7 +56,6 @@ def get_custom_feedback(password): #Adds custom warnings and suggestions based o
         
     return warnings, suggestions
 
-
 def estimated_crack_time_cli(password): #CLI version to estimate password crack time.
     is_valid, message = validate_password(password)
     if not is_valid:
