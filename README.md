@@ -33,9 +33,10 @@ Example:
 
 ### GUI:
 
-Run the script and press "1" at the prompt to launch the GUI.
-Enter a password in the entry field and click "Check Strength."
-The results will be displayed in the text box below.
+- Run the script and press "1", then "Enter" at the prompt to launch the GUI.
+- Enter a password in the entry field and click "Check Strength."
+
+- The results will be displayed in the text box below.
 
 macOS Example: 
 ![alt text](image.png)
