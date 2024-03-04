@@ -2,17 +2,19 @@
 
 Python-based Password Strength Checker (PSC) offering CLI and GUI to analyze password strength with an estimated brute-force cracking time. Includes actionable feedback with common password and pattern checks.
 
-# Table of Contents
-Features: #features
-Installation: 
-Usage: 
-
 ## Features:
 
-Evaluates password strength using the zxcvbn library.
-Estimates the time it would take to crack the password.
-Provides custom warnings and suggestions for improving password strength.
-Checks for common passwords, password length, and diversity.
+- Evaluates password strength from provided passwords.
+- Estimates the time it would take to crack the password.
+- Provides custom warnings and suggestions for improving password strength.
+- CLI & GUI Options
+- Checks for:
+    - Password Length
+    - Common password usage
+    - Usage of seasons
+    - Usage of years
+    - Character type diversity
+
 
 ## Installation:
 
