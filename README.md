@@ -43,7 +43,7 @@ Example(Windows):
 ![alt text](image-1.png)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Seger-Steele/Password-Strength-Checker/blob/main/LICENSE) file for details.
 
 ## Additional Notes:
 This script uses the zxcvbn library to estimate password strength and assign it a score. For more information on the zxcvbn library, see its documentation: https://zxcvbn-ts.github.io/zxcvbn/guide/getting-started/.
