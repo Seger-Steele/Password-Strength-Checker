@@ -2,19 +2,6 @@
 
 Python-based Password Strength Checker (PSC) offering CLI and GUI to analyze password strength with an estimated brute-force cracking time. Includes actionable feedback with custom password and pattern checks.
 
-# Table of Contents
-[Features](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#features)
-
-[Installation](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#installation)
-
-[Usage](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#usage)
-    - [CLI](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#cli)
-    - [GUI](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#gui)
-
-[License](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#license)
-
-[Additional Notes](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#additional-notes)
-
 ## Features:
 
 - Evaluates password strength from a provided password.
@@ -32,7 +19,7 @@ Python-based Password Strength Checker (PSC) offering CLI and GUI to analyze pas
 ## Installation:
 
 - Install the required library: [requirements.txt](https://github.com/Seger-Steele/Password-Strength-Checker/blob/main/requirements.txt)
-- Ensure you downloaded [10k-most-common.txt](https://github.com/Seger-Steele/Password-Strength-Checker/blob/main/10k-most-common.txt).  What I provide is a copy from [Daniel Miessler Seclists](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt)
+- Ensure you downloaded [10k-most-common.txt](https://github.com/Seger-Steele/Password-Strength-Checker/blob/main/10k-most-common.txt).  What I provide is a copy from [Daniel Miessler Seclists](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt).
 
 ## Usage:
 
