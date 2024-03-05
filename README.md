@@ -18,8 +18,8 @@ Python-based Password Strength Checker (PSC) offering CLI and GUI to analyze pas
 
 ## Installation:
 
-Install the required libraries:
-Lorem Ipsum
+- Install the required library: [requirements.txt](https://github.com/Seger-Steele/Password-Strength-Checker/blob/main/requirements.txt)
+- Ensure you downloaded [10k-most-common.txt](https://github.com/Seger-Steele/Password-Strength-Checker/blob/main/10k-most-common.txt).  What I provide is a copy from [Daniel Miessler Seclists](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt)
 
 ## Usage:
 
@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ## Additional Notes:
 This script uses the zxcvbn library to estimate password strength and assign it a score. For more information on the zxcvbn library, see its documentation: https://zxcvbn-ts.github.io/zxcvbn/guide/getting-started/.
 
-The script also loads a list of common passwords from a file.  The list of common passwords can be updated as wanted by modifying "load_common_passwords()". 
+The script also loads a list of common passwords from a from [Daniel Miessler Seclists](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10k-most-common.txt).  The list of common passwords can be updated as wanted by modifying "load_common_passwords()". 
