@@ -4,7 +4,7 @@ Python-based Password Strength Checker (PSC) offering CLI and GUI to analyze pas
 
 ## Features:
 
-- Evaluates password strength from provided passwords.
+- Evaluates password strength from a provided password.
 - Estimates the time it would take to crack the password.
 - Provides custom warnings and suggestions for improving password strength.
 - CLI & GUI Options.
