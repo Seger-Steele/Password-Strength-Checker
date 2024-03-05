@@ -2,6 +2,19 @@
 
 Python-based Password Strength Checker (PSC) offering CLI and GUI to analyze password strength with an estimated brute-force cracking time. Includes actionable feedback with common password and pattern checks.
 
+# Table of Contents
+[Features](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#features)
+
+[Installation](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#installation)
+
+[Usage](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#usage)
+    - [CLI](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#cli)
+    - [GUI](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#gui)
+
+[License](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#license)
+
+[Additional Notes](https://github.com/Seger-Steele/Password-Strength-Checker/tree/main?tab=readme-ov-file#additional-notes)
+
 ## Features:
 
 - Evaluates password strength from provided passwords.
